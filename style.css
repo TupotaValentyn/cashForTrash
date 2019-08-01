@@ -15,7 +15,7 @@
     --extra-bold: 400;
     
     /*  set of different fonts style */
-      --caption-set: var(--semi-bold) var(--caption)/ calc(var(--caption) + 4px) var(--font-family);
+      --caption-set: var(--regular) var(--figcaption)/ calc(var(--figcaption) + 4px) var(--font-family);
     
     --title-set: var(--title-weight) var(--title)/ calc(var(--title) + 4px) var(--font-family);
     
@@ -75,7 +75,8 @@
       transform: translateZ(-1px) scale(2);
     min-width: 100vw;
     /* clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%) */ 
-    
+    /* dev */
+
   }
   
   [class*='title'] {
