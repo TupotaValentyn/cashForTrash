@@ -4,8 +4,10 @@
 
 `Design and creativity in social projects`
 
-**[CodePen]**
-***[GithubPage]*
+## Links
+
+__[CodePen]__ - CodePen 
+__[GithubPage]__ - Github
 
 
 [GOF]: https://www.facebook.com/GameofFonts/
